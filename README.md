@@ -16,6 +16,10 @@
  
 https://drive.google.com/file/d/1zBbSmpOBnXaCoTK1aa5k_-LUi9KC3k4H/view?usp=sharing
 
+## Demo
+
+https://youtu.be/wtRPg9cL4EQ
+
 ## 🛠 Installation (Mobile)
 
 1. **Pre-requisites**
